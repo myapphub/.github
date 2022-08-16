@@ -1,4 +1,4 @@
-## AppHub 👋
+## Hi there  👋
 
 🙋‍♀️ A self-hosted service that helps you distribute Android, iOS, macOS, tvOS, Linux, Windows apps, you can release builds to testers and public app stores. 
 
